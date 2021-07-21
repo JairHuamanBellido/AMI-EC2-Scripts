@@ -1,6 +1,8 @@
 # Steps
 Pasos para preparar el entorno de Node JS y CodeDeploy
 ```
+#!/bin/bash
+
 cd ~
 
 git clone https://github.com/JairHuamanBellido/AMI-EC2-Scripts.git
